@@ -3,4 +3,4 @@
 string = input("Digite uma String: ")
 numero = int(input("Digite um número inteiro: "))
 
-print(String * numero)
+print(string * numero)
