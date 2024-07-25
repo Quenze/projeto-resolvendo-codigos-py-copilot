@@ -90,12 +90,12 @@ O que aprenderemos?
 
 | Objetivos | Resultados |
   :-------: | :--------: |
-| Concatenando Dados | *Incompleto* |
-| Repetindo Textos | *Incompleto* |
-| Operações Matemáticas Simples | *Incompleto* |
-|  Verificando Números Pares e Ímpares | *Incompleto* |
-| Calculando Média de Notas | *Incompleto* |
-| Verificando Palíndromos | *Incompleto* |
+| Concatenando Dados | *Completo* |
+| Repetindo Textos | *Completo* |
+| Operações Matemáticas Simples | *Completo* |
+|  Verificando Números Pares e Ímpares | *Completo* |
+| Calculando Média de Notas | *Completo* |
+| Verificando Palíndromos | *Completo* |
 
 
 
